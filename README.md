@@ -6,7 +6,7 @@ This assignment focuses on building a data-driven solution to predict employee a
 
 ---
 
-## 👩‍💻 Team Members
+## 👩‍💻 Team Member
 
 - **Bhagya Sri Uddandam**
 
